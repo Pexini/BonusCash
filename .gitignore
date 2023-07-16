@@ -38,7 +38,7 @@ build/
 .DS_Store
 
 *.idea
-idea/
-out/
+.idea/
+target/
 *.iml
-.xml
+
